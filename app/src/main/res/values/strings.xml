@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name" translatable="false">StoryApp</string>
+    <string name="tvLogin">Login</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="story" translatable="false">Story</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register">Register</string>
+    <string name="havent_account">Didn\'t have account?</string>
+    <string name="name">Full Name</string>
+    <string name="have_account">Already have account?</string>
+    <string name="app" translatable="false">App</string>
+
+
+    <string name="name_none">Name cannot be empty</string>
+
+    <string name="email_format">Wrong email format</string>
+    <string name="email_taken">The email you entered is already registered, please change your email</string>
+    <string name="email_none">Email cannot be empty</string>
+
+    <string name="password_none">Password cannot be empty</string>
+    <string name="password_format">Password must be at least 8 characters</string>
+
+
+    <string name="login_success_message" translatable="false">Hello %1$s!</string>
+
+    <string name="login_invalid">Is invalid!</string>
+
+    <string name="incorrect_credentials_message">The email or password you entered is incorrect, please try again</string>
+    <string name="slow_internet_message">Your internet connection is slow, please try again</string>
+
+
+    <string name="bottom_splash_text" translatable="false">Submission Intermediate Android Application Development</string>
+    <string name="story_splash" translatable="false">Tell your story!</string>
+    <string name="bottom_splash" translatable="false">Final Submission Dicoding</string>
+
+
+    <string name="date_content">October 03, 2023, 15:23:55</string>
+    <string name="description_content" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+    <string name="error_load">Failed to load data!</string>
+    <string name="refresh">Refresh</string>
+    <string name="change_language">Change Language</string>
+
+    <string name="logout">Log Out</string>
+    <string name="logout_description">Are you sure you want to log out?</string>
+    <string name="logout_success">Logged out successfully</string>
+    <string name="logout_cancel">Cancel</string>
+    <string name="created_date">Story created on:</string>
+    <string name="no_data">No data found!</string>
+    <string name="btn_post" translatable="false">Post Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="message">"Message: "</string>
+    <string name="select_image">Select image!</string>
+    <string name="fill_description">Fill the description</string>
+    <string name="package_name" translatable="false">com.example.storyapp</string>
+
+    <string name="login_success">Halo %1$s!</string>
+    <string name="login_error_message">The email or password you entered is incorrect, please try again</string>
+    <string name="error_message">Error message: %1$s</string>
+    <string name="registration_success">Yeay, account has been successfully created</string>
+    <string name="detail_title" translatable="false">%1$s Story</string>
+    <string name="post_user">Create new story</string>
+
+
+    <string name="location">Your Location</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="title_activity_location" translatable="false">LocationActivity</string>
+    <string name="my_location">Use my location</string>
+    <string name="pick_location">Pick Location</string>
+    <string name="click_map">Click Map to Choose Location</string>
+    <string name="retro_maps">Retro Style Map</string>
+    <string name="standard_maps">Standard Maps</string>
+    <string name="start_point">Start Point</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="use_location">Use this location?</string>
+    <string name="location_not_found">Location not found!</string>
+    <string name="see_maps">See Maps</string>
+    <string name="try_again">Try again</string>
+
+</resources>
